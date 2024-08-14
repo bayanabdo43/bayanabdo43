@@ -6,7 +6,7 @@ My approach is to develop attractive, functional interfaces while also deliverin
 I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
  I can design and develop websites, I can maintain computer hardware and software
 </p>
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw0lzi_cVCet6ccVAorhaxn2&ust=1723678594528000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDf6qOR84cDFQAAAAAdAAAAABAb" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw0lzi_cVCet6ccVAorhaxn2&ust=1723678594528000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDf6qOR84cDFQAAAAAdAAAAABAk" />
 
  ### How to reach me 📫
 
