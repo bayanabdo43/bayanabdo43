@@ -1,6 +1,6 @@
-<!--<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+my+name+is+Bayan+Abdo..&hearts;++;Full+Stack+Web+Developer..<3"></p>--> 
+
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=my+Name+is+Bayan+Abdo..&hearts;;I+am+a+Full+Stack+Web+Developer..<3)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=my+Name+is+Bayan+Abdo..&hearts;;I+am+a+Full+Stack+Web+Developer..<3)](https://git.io/typing-svg)-->
 
 
 
@@ -12,6 +12,7 @@
 
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, my name is Bayan</h1>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer..&hearts;++;Full+Stack+Web+Developer..<3;Angular+||+.NET"></p>
 <div>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -20,6 +21,14 @@
 My approach is to develop attractive, functional interfaces while also delivering an engaging user experience.
 I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
  I can design and develop websites, I can maintain computer hardware and software
+</br>
+</br>
+
+- 🌱 I’m currently learning **FrontEnd (Angular) - & - BackEnd (.Net)**
+
+- 📫 How to reach me **bayanabdoo43@gmail.com**
+  
+  </br>
 </p>
 </div>
 
