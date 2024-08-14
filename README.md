@@ -1,44 +1,28 @@
-
-### Hi there 👋, my name is Bayan
-<hr>
-<p width="50%" >My name is Bayan , I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Bayan+Abdo..&hearts;++;Full+Stack+Web+Developer..<3"></p>
+<p align="center">
+    <a href="https://www.linkedin.com/in/bayanabdo43"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/bayanabdo43"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/bayanabdo43" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
+<h1 align="center"> Hi there 👋, my name is Bayan</h1>
+<p align="center"> I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
 My approach is to develop attractive, functional interfaces while also delivering an engaging user experience.
 I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
  I can design and develop websites, I can maintain computer hardware and software
 </p>
 <img width="50" alt="GIF" src="[https://images.app.goo.gl/dCEWSgsDfyjWVQTu7](https://images.app.goo.gl/v1YW257Rje9XqzL19)" />
-
- ### How to reach me 📫
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](https://yahoo.com/bayanabdo43)  
+<!-- <h3>How to reach me 📫</h3>  -->
 
 
-<hr>
-💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
+<h2>Languages and Tools: 💻</h2>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,ts,angular,bootstrap,tailwind,npm,git,github,nodejs,sass,visualstudio,vscode)](https://skillicons.dev)
+<br/>
+</div>
+
 
 
 
