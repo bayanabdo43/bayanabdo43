@@ -1,11 +1,12 @@
 
 ### Hi there 👋, my name is Bayan
 <hr>
-My name is Bayan , I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
+<p></p>My name is Bayan , I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
 My approach is to develop attractive, functional interfaces while also delivering an engaging user experience.
 I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
  I can design and develop websites, I can maintain computer hardware and software
-
+</p>
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="[https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif](https://pin.it/3ZPI90v98)" />
 
  ### How to reach me 📫
 
@@ -40,6 +41,5 @@ I also have previous experience in data entry, and Using Microsoft Office progra
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 
