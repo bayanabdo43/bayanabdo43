@@ -1,20 +1,18 @@
-### Hi there 👋, my name is Bayan
-![](https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw0lzi_cVCet6ccVAorhaxn2&ust=1723678594528000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDf6qOR84cDFQAAAAAdAAAAABAb)
 
+### Hi there 👋, my name is Bayan
+<hr>
 My name is Bayan , I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
 My approach is to develop attractive, functional interfaces while also delivering an engaging user experience.
 I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
  I can design and develop websites, I can maintain computer hardware and software
 
 
+ ### How to reach me 📫
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-<br>
-###📫 How to reach me 
-(https://www.linkedin.com/in/bayanabdo43/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](https://yahoo.com/bayanabdo43)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](https://yahoo.com/bayanabdo43)  
 
 
+<hr>
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -42,5 +40,6 @@ I also have previous experience in data entry, and Using Microsoft Office progra
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
 
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 
