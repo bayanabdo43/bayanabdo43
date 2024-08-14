@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @bayanabdo43
-- 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning Design and more languages
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me bayanabdoo43@gmail.com
-
 ### Hi there 👋, my name is Bayan
 ![](https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw0lzi_cVCet6ccVAorhaxn2&ust=1723678594528000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDf6qOR84cDFQAAAAAdAAAAABAb)
 
@@ -14,7 +8,11 @@ I also have previous experience in data entry, and Using Microsoft Office progra
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](https://yahoo.com/bayanabdo43)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+<br>
+###📫 How to reach me 
+(https://www.linkedin.com/in/bayanabdo43/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bayanabdo43/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bayanabdo43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yahoo.svg' alt='yahoo' height='40'>](https://yahoo.com/bayanabdo43)  
 
 
 💻 **Languages and Tools:** 🛠️<br>
@@ -46,7 +44,3 @@ I also have previous experience in data entry, and Using Microsoft Office progra
 
 
 
-<!---
-bayanabdo43/bayanabdo43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
