@@ -17,7 +17,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="center"> 
-    
+</br>
+</br>
 Front-end developer with strong experience in building responsive and user-focused web interfaces using modern technologies such as HTML, CSS, JavaScript, Bootstrap, Tailwind, TypeScript, and Angular. Skilled in transforming UI/UX requirements into functional web applications.
 Able to handle projects from concept to deployment, with solid problem‑solving skills and the ability to collaborate effectively with teams. Also experienced in content writing, data entry, and Microsoft Office tools.
 </br>
