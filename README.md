@@ -17,10 +17,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <p align="center"> 
-    I am 24 years old, I hold a Bachelor’s degree in Management Information Systems 2021, iam a front end developer with experience in developing user interfaces for websites and web applications . Skilled in using HTML, CSS, Bootstrap, js , Tailwind , jQuery and angular.
-My approach is to develop attractive, functional interfaces while also delivering an engaging user experience.
-I also have previous experience in data entry, and Using Microsoft Office programs, Word, Excel and PowerPoint.
- I can design and develop websites, I can maintain computer hardware and software
+Front-end developer with strong experience in building responsive and user-focused web interfaces using modern technologies such as HTML, CSS, JavaScript, Bootstrap, Tailwind, TypeScript, and Angular. Skilled in transforming UI/UX requirements into functional web applications.
+
+Able to handle projects from concept to deployment, with solid problem‑solving skills and the ability to collaborate effectively with teams. Also experienced in content writing, data entry, and Microsoft Office tools.
 </br>
 </br>
 
